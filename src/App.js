@@ -1,7 +1,7 @@
 import './App.css';
 import React from 'react';
-import HelloWorld from './HelloWorld';
-import CounterApp from './CounterApp';
+import HelloWorld from './components/HelloWorld';
+import CounterApp from './components/CounterApp';
 
 function App() {
   return (
